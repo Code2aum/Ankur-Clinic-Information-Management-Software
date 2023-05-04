@@ -5,7 +5,7 @@
 ###### cd backend
 ###### npm install
 
-##### Open another terminal window and type the fllowing commands:
+##### Open another terminal window and type the following commands:
 ###### cd frontend
 ###### npm install
 
